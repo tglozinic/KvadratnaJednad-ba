@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KvadratnaJednadžba
 {
-    class QuadraticEquation
+   public class QuadraticEquation
     {
 
         public QuadraticEquation()
